@@ -84,18 +84,11 @@ and Python on the side.
 
 ---
 
-## Coursework Highlights
-
-Data Structures & Algorithms · Operating Systems · Databases · Software Engineering ·
-Computer Networks · Artificial Intelligence · Compilers · Distributed Systems
-
----
-
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Jonathansl17&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathansl17&layout=compact&hide_border=true&theme=transparent" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Jonathansl17&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathansl17&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" />
 </p>
 
 ---
