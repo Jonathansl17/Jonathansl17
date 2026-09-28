@@ -85,5 +85,5 @@ and Python on the side.
 ---
 
 <p align="center">
-  <i>Open to QA, backend and full-stack opportunities — feel free to reach out.</i>
+  <i>Open to QA, backend, full-stack and AI/ML opportunities — feel free to reach out.</i>
 </p>
