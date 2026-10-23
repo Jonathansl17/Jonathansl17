@@ -22,9 +22,8 @@ designing testable systems, automating verification, and shipping with confidenc
 through CI/CD. Comfortable in Agile/Scrum teams and across the stack — from REST
 APIs and databases to UI automation and infrastructure.
 
-Currently contributing to a workflow-automation startup (n8n-like platform) and to
-internal university software at TEC, while tutoring discrete math, linear algebra
-and Python on the side.
+I also work with AI: building LLM-powered features with RAG, AI agents, and
+machine learning models in Python.
 
 ---
 
