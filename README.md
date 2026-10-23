@@ -2,7 +2,7 @@
 
 <p align="center">
   Computer Engineering student at <b>Instituto Tecnológico de Costa Rica</b><br/>
-  Software Developer · QA & Test Automation · Backend Engineering
+  Software Developer · AI Engineering (NLP & Deep Learning) · QA & Test Automation · Backend Engineering
 </p>
 
 <p align="center">
